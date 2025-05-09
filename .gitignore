@@ -9,3 +9,6 @@
 # If any user/system specific shourtcuts like intelli location are present.
 *.lnk
 
+*.log
+*.out
+
