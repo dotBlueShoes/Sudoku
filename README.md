@@ -1,5 +1,9 @@
 # Sudoku
 
+<p align="center">
+  <img src="extra/view.png" alt="Sudoku Screenshot" width="400"/>
+</p>
+
 ### EN
 
 Project of a game written in `Java` for the `'Component-based Development'` classes. 
