@@ -1,0 +1,8 @@
+# .idea has it's own .gitignore file
+
+# Compilation Files
+/target/
+
+# If any user/system specific shourtcuts like intelli location are present.
+*.lnk
+

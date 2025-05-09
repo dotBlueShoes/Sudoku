@@ -1,0 +1,11 @@
+# .idea has it's own .gitignore file
+
+# Compilation Files
+/DAO/target/
+/JavaFX/target/
+/Model/target/
+/target/
+
+# If any user/system specific shourtcuts like intelli location are present.
+*.lnk
+
