@@ -33,12 +33,10 @@
          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
      </rowConstraints>
    </GridPane>
-   <HBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="200.0">
-      <children>
-         <Button alignment="TOP_LEFT" onAction="#onExitButtonClick" text="%game.exit" />
-         <Button alignment="TOP_LEFT" onAction="#onSaveButtonClick" text="%game.save" />
-         <Button alignment="TOP_LEFT" onAction="#onPLButtonClick" text="%game.pl" />
-         <Button alignment="TOP_LEFT" onAction="#onENButtonClick" text="%game.en" />
-      </children>
-   </HBox>
+    <HBox alignment="TOP_CENTER" prefHeight="100.0" prefWidth="200.0">
+        <Button alignment="TOP_LEFT" onAction="#onExitButtonClick" text="%game.exit"/>
+        <Button alignment="TOP_LEFT" onAction="#onSaveButtonClick" text="%game.save"/>
+        <Button alignment="TOP_LEFT" onAction="#onLanguagePolishButtonClick" text="%game.pl"/>
+        <Button alignment="TOP_LEFT" onAction="#onLanguageEnglishButtonClick" text="%game.en"/>
+    </HBox>
 </VBox>
